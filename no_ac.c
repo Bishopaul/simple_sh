@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * main - passing command line arguments
+ * ac: argument count
+ * av: argument
+ *
+ * Return: 0
+ */
+
 int main(int ac, char **av)
 {
 	int i;
