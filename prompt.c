@@ -6,7 +6,7 @@
  * buff: null-terminated and includes the newline character
  */
 
-int main (void)
+int main(void)
 {
 	size_t n = 0;
 	char *buff = NULL;
@@ -17,5 +17,5 @@ int main (void)
 
 	free(buff);
 
-	return(0);
+	return (0);
 }
