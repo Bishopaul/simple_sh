@@ -2,11 +2,13 @@
 #include <stdlib.h>
 
 /**
- * getline - reads an entire line from stream
+ * main - reads an entire line from stream
  * buff: null-terminated and includes the newline character
+ *
+ * Return: 0
  */
 
-int main (void)
+int main(void)
 {
 	size_t n = 0;
 	char *buff = NULL;
@@ -17,5 +19,5 @@ int main (void)
 
 	free(buff);
 
-	return(0);
+	return (0);
 }

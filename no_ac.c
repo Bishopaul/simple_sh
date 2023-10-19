@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 /**
  * main - passing command line arguments
- * ac: argument count
- * av: argument
+ *
+ * @ac: argument count
+ * @av: argument vector
  *
  * Return: 0
  */
