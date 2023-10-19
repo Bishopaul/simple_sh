@@ -2,6 +2,12 @@
 #include <string.h>
 #include <stdlib.h>
 
+/*
+ * main - string copy, delim
+ *
+ * Return: 0
+ */
+
 int main(void)
 {
 	char *str = "This is a separated word by spaces";

@@ -2,6 +2,13 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*
+ * _strtok - String tokenization
+ *
+ * str: string to be passsed
+ * delim: delimeter
+ */
+
 void _strtok(const char *str, char delim)
 {
 	int length = strlen(str);

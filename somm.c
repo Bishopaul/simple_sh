@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+ * main - sum up functionsin an argument
+ *
+ * @ac: argument count
+ * @av: arguments
+ *
+ * Return: 0
+ */
+
 int main(int ac, char **av)
 {
 	int i;

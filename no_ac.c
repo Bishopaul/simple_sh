@@ -4,8 +4,9 @@
 
 /**
  * main - passing command line arguments
- * ac: argument count
- * av: argument
+ *
+ * @ac: argument count
+ * @av: argument vector
  *
  * Return: 0
  */

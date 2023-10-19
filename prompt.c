@@ -2,8 +2,10 @@
 #include <stdlib.h>
 
 /**
- * getline - reads an entire line from stream
+ * main - reads an entire line from stream
  * buff: null-terminated and includes the newline character
+ *
+ * Return: 0
  */
 
 int main(void)
